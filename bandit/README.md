@@ -1,3 +1,7 @@
+# Bandit
+
+Host: bandit.labs.overthewire.org
+
 ## Solutions
 
 - username: bandit0, password: bandit0
@@ -7,3 +11,4 @@
 - username: bandit4, password: pIwrPrtPN36QITSp3EQaw936yaFoFgAB
 - username: bandit5, password: koReBOKuIDDepwhWk7jZC0RTdopnAYKh
 - username: bandit6, password: 
+
